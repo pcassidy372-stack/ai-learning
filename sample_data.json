@@ -1,0 +1,10 @@
+{
+    "report_date": "2026-04-20",
+    "total_jobs": 14823,
+    "failed_jobs": 47,
+    "sla_breaches": 3,
+    "critical_incidents": 1,
+    "top_failing_domain": "CICS Region 4",
+    "open_change_requests": 12,
+    "avg_completion_time_minutes": 4.2
+}

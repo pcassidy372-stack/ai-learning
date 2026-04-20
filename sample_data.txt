@@ -1,0 +1,8 @@
+Mainframe Operations Summary - April 2026
+Total batch jobs processed: 14,823
+Failed jobs: 47
+SLA breaches: 3
+Top failing domain: CICS Region 4
+Average job completion time: 4.2 minutes
+Critical incidents: 1
+Open change requests: 12
