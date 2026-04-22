@@ -98,4 +98,23 @@ def run_agent(question: str) -> str:
 # API endpoints
 @app.get("/")
 def root():
-    return {"status": "Mainf
+    return {"status": "Mainframe Operations Assistant is running"}
+
+@app.get("/health")
+def health():
+    total = len(ops_data)
+    failed = sum(1 for row in ops_data if row['status'] == 'failed')
+    success_rate = round(((total - failed) / total) * 100, 1)
+    return {
+        "status": "healthy",
+        "total_jobs": total,
+        "success_rate": success_rate
+    }
+
+@app.post("/ask")
+def ask(request: QuestionRequest):
+    answer = run_agent(request.question)
+    return {
+        "question": request.question,
+        "answer": answer
+    }
