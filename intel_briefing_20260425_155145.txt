@@ -1,0 +1,98 @@
+MAINFRAME INDUSTRY INTELLIGENCE BRIEFING
+Generated: April 25, 2026 03:51 PM
+==================================================
+
+MAINFRAME AND ENTERPRISE INFRASTRUCTURE INTELLIGENCE BRIEFING
+Prepared for: Chief of Staff
+Date: April 24, 2026
+Classification: Internal Use Only
+
+========================================================
+SECTION 1: KEY DEVELOPMENTS THIS WEEK
+========================================================
+
+1. IBM Q1 2026 Earnings Signal Mixed Outlook for Mainframe Customers
+
+IBM reported Q1 2026 results on April 22-23 that beat profit estimates, driven by hybrid cloud growth and what Digitimes called a "record mainframe surge." Infrastructure segment growth remained robust. However, IBM shares fell approximately 6-7% after hours due to slower overall revenue growth (9%) and softness in the software division. IBM held its full-year forecast steady rather than raising guidance, disappointing investors. For mainframe customers, the takeaway is that IBM's infrastructure business is healthy, but the company is under investor pressure around AI disruption, which could influence its strategic priorities going forward.
+
+2. Gartner Warns 70% of AI-Powered Mainframe Migration Projects Will Fail
+
+On April 15, Gartner issued a stark warning that most organizations using AI to migrate legacy mainframe code to alternative platforms will be "very disappointed." The firm projects 70% of such projects will fail and 75% of vendors in the mainframe migration space will exit the market. This is a critical data point for any executive evaluating migration proposals from vendors promising AI-accelerated mainframe exits.
+
+3. IBM-Arm Partnership Reshapes the Mainframe Ecosystem
+
+Announced April 2, the IBM-Arm strategic collaboration continues to generate significant industry coverage. The partnership will enable Arm-based software to run on IBM Z and LinuxONE mainframes through new virtualization tooling. The focus areas are cloud-native workloads, AI and data-intensive processing, and compliance-grade security for Arm applications. This positions IBM mainframes as a broader compute platform rather than a legacy-only environment and is directly relevant to fintech organizations evaluating where to run AI inference alongside transactional workloads.
+
+4. Cognition's "Devin" AI Agent Deployed for COBOL Modernization at Fortune 500 Companies
+
+Cognition.ai published details on April 9 showing that its AI coding agent Devin has been deployed at multiple Fortune 500 companies over the past eight months to modernize COBOL. This development was significant enough that IBM's own earnings coverage referenced a "rival tool" showing promise in COBOL modernization as a concern for IBM's software consulting business. This signals a maturing market for AI-assisted COBOL transformation, though see the Gartner warning above regarding failure rates.
+
+5. Agentic AI Accelerating Mainframe Modernization but Requires Human Oversight
+
+ComputerWeekly reported on April 23 that agentic AI tools are helping organizations address COBOL skills shortages and unravel legacy infrastructure complexity. However, successful modernization projects still require experienced human experts in the loop to manage the complexity of enterprise-grade transformations. This aligns with the Gartner assessment and suggests a hybrid human-AI approach is the pragmatic path forward.
+
+6. Federal Reserve Signals Modernization Intent
+
+On April 21, Federal Reserve Governor Waller delivered a speech at Brookings titled "Modernizing Federal Reserve Operations in the 21st Century." While specific details are limited, any movement by the Fed to modernize its infrastructure has downstream implications for the financial services sector, including regulatory expectations and interoperability standards.
+
+========================================================
+SECTION 2: TRENDS WORTH MONITORING
+========================================================
+
+Trend 1: AI-Driven COBOL Modernization Is Reaching an Inflection Point
+Multiple signals this month confirm that AI-powered COBOL modernization is moving from experimental to production deployment at Fortune 500 scale. However, the gap between vendor promises and actual delivery remains wide. Gartner's projection of a 70% failure rate suggests the market is overheated. Organizations should proceed with rigorous proof-of-concept requirements and avoid long-term lock-in with vendors who may not survive the shakeout.
+
+Trend 2: IBM Is Repositioning the Mainframe as an AI-Ready Platform
+The Arm partnership, hybrid cloud growth, and "record mainframe surge" in Q1 earnings collectively indicate IBM is investing heavily in making the mainframe relevant for AI and cloud-native workloads. This is a deliberate strategy to counter the migration narrative by making the mainframe a destination for modern workloads, not just a source of legacy ones.
+
+Trend 3: Mainframe Talent Crisis Is Intensifying
+Cognition's report cites that 47% of organizations cannot fill COBOL roles and 92% of COBOL developers plan to retire by 2030. No meaningful new talent pipeline has emerged to address this gap. AI tooling is being positioned as the primary solution, but the human-in-the-loop requirement identified by ComputerWeekly means experienced mainframe professionals will command increasing premiums.
+
+Trend 4: Mainframe Migration Vendor Market Heading for Consolidation
+Gartner's prediction that 75% of vendors in the AI-powered mainframe migration space will disappear signals an imminent consolidation. Organizations currently engaged with smaller or newer vendors in this space should assess counterparty risk.
+
+Trend 5: Regulatory Modernization May Drive Infrastructure Changes
+The IRS is planning to shrink its workforce by nearly 4,000 and rely on technology modernization to sustain performance. The Federal Reserve is signaling operational modernization. These moves by major government institutions may set new expectations and standards that ripple into the regulated financial services sector.
+
+========================================================
+SECTION 3: THREATS AND OPPORTUNITIES
+========================================================
+
+THREATS:
+
+T1 - Vendor Instability in Migration Space: If your organization is working with a mainframe migration vendor, the Gartner forecast of 75% vendor attrition represents direct execution risk. Evaluate vendor financial health and ensure contractual protections for incomplete projects.
+
+T2 - AI Disruption to IBM's Business Model: IBM's stock decline on AI disruption fears could eventually affect its investment in mainframe R&D or alter its pricing strategies. If IBM faces sustained pressure, it may accelerate cloud-migration revenue models that increase total cost of ownership for on-premises mainframe customers.
+
+T3 - Talent Cliff Approaching 2028-2030: The 92% COBOL developer retirement projection by 2030 is a structural risk. Organizations that have not begun knowledge transfer, documentation, and AI-augmented tooling adoption within the next 12-18 months face escalating operational risk.
+
+T4 - Broadcom Mainframe Software: The search yielded no new Broadcom-specific mainframe news this cycle, but the absence of signal should not be mistaken for absence of risk. Broadcom's mainframe software licensing practices remain a standing concern for the enterprise mainframe community and warrant continuous monitoring.
+
+OPPORTUNITIES:
+
+O1 - IBM-Arm Convergence: The IBM-Arm partnership creates a potential opportunity to consolidate Arm-based AI inference workloads onto existing mainframe infrastructure, reducing the need for separate compute environments and leveraging the mainframe's security and availability characteristics for AI processing in regulated fintech contexts.
+
+O2 - Negotiate from Strength: IBM's record mainframe infrastructure quarter, combined with investor pressure on the company, creates a negotiating window. IBM needs to demonstrate continued mainframe relevance and customer commitment. This is a favorable environment for negotiating licensing, support, and modernization partnership terms.
+
+O3 - AI-Augmented COBOL Management: Rather than pursuing full migration, organizations should evaluate AI-assisted COBOL comprehension and maintenance tools (such as Devin and IBM's own watsonx Code Assistant) as a way to extend the useful life of existing mainframe investments while reducing dependency on retiring talent. This is likely the highest-ROI, lowest-risk modernization path.
+
+O4 - Hybrid Modernization Strategy: The convergence of data (Gartner failure rates, IBM-Arm partnership, AI tooling maturity) supports a hybrid strategy: modernize in place where possible using AI tooling, selectively migrate non-critical workloads, and retain the mainframe as the core transactional platform. This avoids the risk profile of wholesale migration while demonstrating modernization progress.
+
+========================================================
+RECOMMENDED ACTIONS
+========================================================
+
+1. Review any active or planned mainframe migration engagements against the Gartner 70% failure rate finding. Request vendor-specific success metrics and reference cases.
+
+2. Schedule a technical briefing on the IBM-Arm partnership to assess applicability to your AI and data workloads currently running on separate infrastructure.
+
+3. Initiate or accelerate a mainframe talent risk assessment, including documentation of critical COBOL business logic and evaluation of AI-assisted code comprehension tools.
+
+4. If IBM contract renewals are upcoming in the next 6-12 months, use the current market dynamics to negotiate favorable terms.
+
+5. Monitor the Federal Reserve modernization initiative for signals that may influence compliance or interoperability requirements in the fintech sector.
+
+========================================================
+END OF BRIEFING
+Next scheduled update: Week of May 1, 2026
+========================================================
